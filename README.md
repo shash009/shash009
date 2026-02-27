@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Shashwat Singh</h1>
 <h3 align="center">A passionate full-stack developer from India. Who loves development and solving DSA problems.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shash009&label=Profile%20views&color=0e75b6&style=flat" alt="shash009" /> </p>
+<p align="centre"> <img src="https://komarev.com/ghpvc/?username=shash009&label=Profile%20views&color=0e75b6&style=flat" alt="shash009" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shash009" alt="shash009" /></a> </p>
+<p align="centre"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shash009" alt="shash009" /></a> </p>
 
 - 🔭 I’m currently working on [Task-Manager](https://github.com/shash009/Task-Manager-)
 
